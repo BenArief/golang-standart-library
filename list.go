@@ -23,4 +23,5 @@ func main() {
 	for e := data.Front(); e != nil; e =e.Next() {
 		fmt.Println(e.Value)
 	}
+
 }
